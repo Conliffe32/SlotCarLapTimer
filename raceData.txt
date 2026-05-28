@@ -1,0 +1,96 @@
+This is data for: 24 Hours of Lemons
+Start Time = 23 October 2021 at 19:06:41 PDT 
+End Time = 23 October 2021 at 19:06:58 PDT 
+Race Time = 17.033320426940918 seconds
+Fastest Lap = 2.0057342052459717 seconds
+
+This is data for: Lemans
+Start Time = Sat, 23 Oct 2021 19:31:42 PDT
+End Time = Sat, 23 Oct 2021 19:32:00 PDT
+Race Time = 17.602582216262817 seconds
+Fastest Lap = 2.0466508865356445 seconds
+
+This is data for: Daytona 2
+Start Time = Sat, 23 Oct 2021 19:39:31 PDT
+End Time = Sat, 23 Oct 2021 19:39:41 PDT
+Race Time = 9.632576942443848 seconds
+Fastest Lap = 2.5441811084747314 seconds
+
+This is data for: Daytona 3
+Start Time = Sat, 23 Oct 2021 19:41:35 PDT
+End Time = Sat, 23 Oct 2021 19:41:48 PDT
+Race Time = 13.135804891586304 seconds
+Fastest Lap = 2.4766294956207275 seconds
+
+This is data for: Daytona 10
+Start Time = Sat, 23 Oct 2021 19:43:26 PDT
+End Time = Sat, 23 Oct 2021 19:44:01 PDT
+Race Time = 35.30028796195984 seconds
+Fastest Lap = 2.320436716079712 seconds
+
+This is data for: Monza
+Start Time = Thu, 28 Oct 2021 19:02:44 PDT
+End Time = Thu, 28 Oct 2021 19:04:49 PDT
+Race Time = 125.19909644126892 seconds
+Fastest Lap = 2.596590042114258 seconds
+
+This is data for: Silverstone
+Start Time = Thu, 28 Oct 2021 22:11:24 PDT
+End Time = Thu, 28 Oct 2021 22:12:15 PDT
+Race Time = 50.1259708404541 seconds
+Fastest Lap = 2.454118490219116 seconds
+
+This is data for: Imala
+Start Time = Tue, 02 Nov 2021 22:34:47 PDT
+End Time = Tue, 02 Nov 2021 22:35:09 PDT
+Race Time = 22.36207628250122 seconds
+Fastest Lap = 1.0029776096343994 seconds
+
+This is data for: Spa
+Start Time = Tue, 02 Nov 2021 22:45:02 PDT
+End Time = Tue, 02 Nov 2021 22:46:21 PDT
+Race Time = 79.05795335769653 seconds
+Fastest Lap = 1.003206729888916 seconds
+
+This is data for: Silverstone
+Start Time = Tue, 02 Nov 2021 22:49:39 PDT
+End Time = Tue, 02 Nov 2021 22:51:13 PDT
+Race Time = 94.56926798820496 seconds
+Fastest Lap = 2.0109076499938965 seconds
+
+This is data for: Circuit of the Americas
+Start Time = Tue, 02 Nov 2021 22:53:53 PDT
+End Time = Tue, 02 Nov 2021 22:54:51 PDT
+Race Time = 58.32084512710571 seconds
+Fastest Lap = 8.991974353790283 seconds
+
+This is data for: Race1
+Start Time = Tue, 26 May 2026 16:52:32 PDT
+End Time = Tue, 26 May 2026 16:54:53 PDT
+Race Time = 141.48771953582764 seconds
+Fastest Lap = 2.015760660171509 seconds
+
+This is data for: Race1
+Start Time = Tue, 26 May 2026 17:11:58 PDT
+End Time = Tue, 26 May 2026 17:12:52 PDT
+Race Time = 54.070250034332275 seconds
+Fastest Lap = 2.0108590126037598 seconds
+
+This is data for: Race2
+Start Time = Tue, 26 May 2026 17:16:51 PDT
+End Time = Tue, 26 May 2026 17:17:40 PDT
+Race Time = 48.546239376068115 seconds
+Fastest Lap = 2.010254383087158 seconds
+
+This is data for: Race3
+Start Time = Tue, 26 May 2026 17:18:30 PDT
+End Time = Tue, 26 May 2026 17:19:24 PDT
+Race Time = 53.74274134635925 seconds
+Fastest Lap = 7.805339097976685 seconds
+
+This is data for: Race4
+Start Time = Tue, 26 May 2026 17:27:18 PDT
+End Time = Tue, 26 May 2026 17:28:20 PDT
+Race Time = 61.68454456329346 seconds
+Fastest Lap = 2.010446310043335 seconds
+

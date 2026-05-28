@@ -1,0 +1,62 @@
+This is data for: ,Race1
+This race will consist of (laps):,5
+On lane #1 is car UID#:,Car1
+Lap #,Lap Time (sec),Fastest Lap(sec)
+1,9.771071672439575,9.771071672439575
+2,2.0108590126037598,2.0108590126037598
+3,8.019252061843872,2.0108590126037598
+4,7.583968639373779,2.0108590126037598
+5,10.260317087173462,2.0108590126037598
+The race started at: ,"Tue, 26 May 2026 17:11:58 PDT"
+The race ended at: ,"Tue, 26 May 2026 17:12:52 PDT"
+Laps completed by winner: ,5
+The race duration was (sec): ,54.070250034332275
+The fastest race lap was (sec): ,2.0108590126037598
+The race winner is: 
+ 
+This is data for: ,Race2
+This race will consist of (laps):,5
+On lane #1 is car UID#:,Car1
+Lap #,Lap Time (sec),Fastest Lap(sec)
+1,14.997689962387085,14.997689962387085
+2,2.010254383087158,2.010254383087158
+3,7.938100576400757,2.010254383087158
+4,9.902539491653442,2.010254383087158
+5,9.120289325714111,2.010254383087158
+The race started at: ,"Tue, 26 May 2026 17:16:51 PDT"
+The race ended at: ,"Tue, 26 May 2026 17:17:40 PDT"
+Laps completed by winner: ,5
+The race duration was (sec): ,48.546239376068115
+The fastest race lap was (sec): ,2.010254383087158
+The race winner is: ,TBD unitl I add more code
+ 
+This is data for: ,Race3
+This race will consist of (laps):,4
+On lane #1 is car UID#:,Car1
+Lap #,Lap Time (sec),Fastest Lap(sec)
+1,9.900193452835083,9.900193452835083
+2,10.271816492080688,9.900193452835083
+3,7.805339097976685,7.805339097976685
+4,15.959840297698975,7.805339097976685
+The race started at: ,"Tue, 26 May 2026 17:18:30 PDT"
+The race ended at: ,"Tue, 26 May 2026 17:19:24 PDT"
+Laps completed by winner: ,4
+The race duration was (sec): ,53.74274134635925
+The fastest race lap was (sec): ,7.805339097976685
+The race winner is: ,TBD unitl I add more code
+ 
+This is data for: ,Race4
+This race will consist of (laps):,4
+On lane #1 is car UID#:,Car1
+Lap #,Lap Time (sec),Fastest Lap(sec)
+1,10.975143909454346,10.975143909454346
+2,2.010446310043335,2.010446310043335
+3,12.731921672821045,2.010446310043335
+4,6.003671646118164,2.010446310043335
+The race started at: ,"Tue, 26 May 2026 17:27:18 PDT"
+The race ended at: ,"Tue, 26 May 2026 17:28:20 PDT"
+Laps completed by winner: ,4
+The race duration was (sec): ,61.68454456329346
+The fastest race lap was (sec): ,2.010446310043335
+The race winner is: ,TBD unitl I add more code
+ 

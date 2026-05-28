@@ -1,0 +1,216 @@
+This is data for: ,24 Hours of Lemons
+This race will consist of (lap) :,5
+On lane #1 is car UID# :,Rust Bucket
+Lap #,Lap Time (sec),Fastest Lap(sec)
+1,4.004357099533081,9999
+2,4.0068840980529785,4.004357099533081
+3,4.0069334506988525,4.004357099533081
+4,3.00590181350708,4.004357099533081
+5,2.0057342052459717,3.00590181350708
+This is data for: ,24H La Mans
+This race will consist of (laps):,10
+On lane #1 is car UID#:,GT40
+Lap #,Lap Time (sec),Fastest Lap(sec)
+1,9.72283124923706,9.72283124923706
+2,5.328708171844482,5.328708171844482
+3,4.064165830612183,4.064165830612183
+4,4.8264241218566895,4.064165830612183
+5,2.301236152648926,2.301236152648926
+6,13.846808671951294,13.846808671951294
+7,4.270296335220337,4.270296335220337
+8,3.6754696369171143,3.6754696369171143
+9,2.5517630577087402,2.5517630577087402
+10,3.058955192565918,2.5517630577087402
+The race started at: ,"Sat, 23 Oct 2021 19:22:39 PDT"
+The race ended at: ,"Sat, 23 Oct 2021 19:23:38 PDT"
+Laps completed by winner: ,10
+The race duration was (sec): ,58.919100761413574
+The fastest race lap was (sec): ,2.5517630577087402
+The race winner is: 
+This is data for: ,Lemans
+This race will consist of (laps):,5
+On lane #1 is car UID#:,GT40
+Lap #,Lap Time (sec),Fastest Lap(sec)
+1,3.130556344985962,3.130556344985962
+2,2.247509479522705,2.247509479522705
+3,2.0466508865356445,2.0466508865356445
+4,4.411404371261597,2.0466508865356445
+5,3.2244274616241455,2.0466508865356445
+The race started at: ,"Sat, 23 Oct 2021 19:31:42 PDT"
+The race ended at: ,"Sat, 23 Oct 2021 19:32:00 PDT"
+Laps completed by winner: ,5
+The race duration was (sec): ,17.602582216262817
+The fastest race lap was (sec): ,2.0466508865356445
+The race winner is: 
+This is data for: ,Daytona 2
+This race will consist of (laps):,2
+On lane #1 is car UID#:,Bubba Wallace
+Lap #,Lap Time (sec),Fastest Lap(sec)
+1,2.5441811084747314,2.5441811084747314
+2,3.8927440643310547,2.5441811084747314
+The race started at: ,"Sat, 23 Oct 2021 19:39:31 PDT"
+The race ended at: ,"Sat, 23 Oct 2021 19:39:41 PDT"
+Laps completed by winner: ,2
+The race duration was (sec): ,9.632576942443848
+The fastest race lap was (sec): ,2.5441811084747314
+The race winner is: 
+/n
+This is data for: ,Daytona 3
+This race will consist of (laps):,3
+On lane #1 is car UID#:,Mustang
+Lap #,Lap Time (sec),Fastest Lap(sec)
+1,3.626650333404541,3.626650333404541
+2,3.218385696411133,3.218385696411133
+3,2.4766294956207275,2.4766294956207275
+The race started at: ,"Sat, 23 Oct 2021 19:41:35 PDT"
+The race ended at: ,"Sat, 23 Oct 2021 19:41:48 PDT"
+Laps completed by winner: ,3
+The race duration was (sec): ,13.135804891586304
+The fastest race lap was (sec): ,2.4766294956207275
+The race winner is: 
+ 
+This is data for: ,Daytona 10
+This race will consist of (laps):,10
+On lane #1 is car UID#:,Camry
+Lap #,Lap Time (sec),Fastest Lap(sec)
+1,5.318652629852295,5.318652629852295
+2,2.433763265609741,2.433763265609741
+3,3.001629114151001,2.433763265609741
+4,3.0832715034484863,2.433763265609741
+5,2.320436716079712,2.320436716079712
+6,2.6584525108337402,2.320436716079712
+7,2.7301859855651855,2.320436716079712
+8,4.517531633377075,2.320436716079712
+9,2.7808027267456055,2.320436716079712
+10,3.8563661575317383,2.320436716079712
+The race started at: ,"Sat, 23 Oct 2021 19:43:26 PDT"
+The race ended at: ,"Sat, 23 Oct 2021 19:44:01 PDT"
+Laps completed by winner: ,10
+The race duration was (sec): ,35.30028796195984
+The fastest race lap was (sec): ,2.320436716079712
+The race winner is: 
+ 
+This is data for: ,Monza
+This race will consist of (laps):,12
+On lane #1 is car UID#:,Mercedes Petronas
+Lap #,Lap Time (sec),Fastest Lap(sec)
+1,10.819723129272461,10.819723129272461
+2,12.064248323440552,10.819723129272461
+3,16.633424758911133,10.819723129272461
+4,14.953110933303833,10.819723129272461
+5,7.351081132888794,7.351081132888794
+6,9.78427505493164,7.351081132888794
+7,10.577755689620972,7.351081132888794
+8,2.8098361492156982,2.8098361492156982
+9,12.856842517852783,2.8098361492156982
+10,9.36072564125061,2.8098361492156982
+11,2.596590042114258,2.596590042114258
+12,3.727062225341797,2.596590042114258
+The race started at: ,"Thu, 28 Oct 2021 19:02:44 PDT"
+The race ended at: ,"Thu, 28 Oct 2021 19:04:49 PDT"
+Laps completed by winner: ,12
+The race duration was (sec): ,125.19909644126892
+The fastest race lap was (sec): ,2.596590042114258
+The race winner is: 
+ 
+This is data for: ,Silverstone
+This race will consist of (laps):,6
+On lane #1 is car UID#:,Patronas Mercedes
+Lap #,Lap Time (sec),Fastest Lap(sec)
+1,7.5157506465911865,7.5157506465911865
+2,6.714990615844727,6.714990615844727
+3,10.596193075180054,6.714990615844727
+4,3.4107768535614014,3.4107768535614014
+5,5.9951441287994385,3.4107768535614014
+6,2.454118490219116,2.454118490219116
+The race started at: ,"Thu, 28 Oct 2021 22:11:24 PDT"
+The race ended at: ,"Thu, 28 Oct 2021 22:12:15 PDT"
+Laps completed by winner: ,6
+The race duration was (sec): ,50.1259708404541
+The fastest race lap was (sec): ,2.454118490219116
+The race winner is: 
+ 
+This is data for: ,Imala
+This race will consist of (laps):,5
+On lane #1 is car UID#:,Peugeot #3
+Lap #,Lap Time (sec),Fastest Lap(sec)
+1,1.0029776096343994,1.0029776096343994
+2,2.0105032920837402,1.0029776096343994
+3,8.524186372756958,1.0029776096343994
+4,1.0068318843841553,1.0029776096343994
+5,5.493343114852905,1.0029776096343994
+The race started at: ,"Tue, 02 Nov 2021 22:34:47 PDT"
+The race ended at: ,"Tue, 02 Nov 2021 22:35:09 PDT"
+Laps completed by winner: ,5
+The race duration was (sec): ,22.36207628250122
+The fastest race lap was (sec): ,1.0029776096343994
+The race winner is: 
+ 
+This is data for: ,Spa
+This race will consist of (laps):,8
+On lane #1 is car UID#:,Peugeot #3
+Lap #,Lap Time (sec),Fastest Lap(sec)
+1,1.003206729888916,1.003206729888916
+2,25.337011098861694,1.003206729888916
+3,1.00767183303833,1.003206729888916
+4,18.384247541427612,1.003206729888916
+5,1.0119824409484863,1.003206729888916
+6,16.649730443954468,1.003206729888916
+7,11.52434229850769,1.003206729888916
+8,1.0096426010131836,1.003206729888916
+The race started at: ,"Tue, 02 Nov 2021 22:45:02 PDT"
+The race ended at: ,"Tue, 02 Nov 2021 22:46:21 PDT"
+Laps completed by winner: ,8
+The race duration was (sec): ,79.05795335769653
+The fastest race lap was (sec): ,1.003206729888916
+The race winner is: 
+ 
+This is data for: ,Silverstone
+This race will consist of (laps):,7
+On lane #1 is car UID#:,Peugeot #3
+Lap #,Lap Time (sec),Fastest Lap(sec)
+1,16.16348648071289,16.16348648071289
+2,12.624351024627686,12.624351024627686
+3,2.0109076499938965,2.0109076499938965
+4,19.73755383491516,2.0109076499938965
+5,11.808516502380371,2.0109076499938965
+6,17.708357572555542,2.0109076499938965
+7,6.850332260131836,2.0109076499938965
+The race started at: ,"Tue, 02 Nov 2021 22:49:39 PDT"
+The race ended at: ,"Tue, 02 Nov 2021 22:51:13 PDT"
+Laps completed by winner: ,7
+The race duration was (sec): ,94.56926798820496
+The fastest race lap was (sec): ,2.0109076499938965
+The race winner is: 
+ 
+This is data for: ,Circuit of the Americas
+This race will consist of (laps):,4
+On lane #1 is car UID#:,Peugeot #3
+Lap #,Lap Time (sec),Fastest Lap(sec)
+1,18.27951955795288,18.27951955795288
+2,11.560845851898193,11.560845851898193
+3,14.887931823730469,11.560845851898193
+4,8.991974353790283,8.991974353790283
+The race started at: ,"Tue, 02 Nov 2021 22:53:53 PDT"
+The race ended at: ,"Tue, 02 Nov 2021 22:54:51 PDT"
+Laps completed by winner: ,4
+The race duration was (sec): ,58.32084512710571
+The fastest race lap was (sec): ,8.991974353790283
+The race winner is: 
+ 
+This is data for: ,Race1
+This race will consist of (laps):,5
+On lane #1 is car UID#:,Car1
+Lap #,Lap Time (sec),Fastest Lap(sec)
+1,48.86132860183716,48.86132860183716
+2,8.436940908432007,8.436940908432007
+3,2.015760660171509,2.015760660171509
+4,9.33643364906311,2.015760660171509
+5,7.863260984420776,2.015760660171509
+The race started at: ,"Tue, 26 May 2026 16:52:32 PDT"
+The race ended at: ,"Tue, 26 May 2026 16:54:53 PDT"
+Laps completed by winner: ,5
+The race duration was (sec): ,141.48771953582764
+The fastest race lap was (sec): ,2.015760660171509
+The race winner is: 
+ 

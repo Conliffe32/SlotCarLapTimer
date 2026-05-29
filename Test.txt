@@ -1,0 +1,5 @@
+//arduino_secrets.h header file
+// #define SECRET_SSID "yournetwork"
+#define SECRET_SSID "Panama_507_guest"
+// #define SECRET_PASS "yourpassword"
+#define SECRET_PASS "6?w5aCE9#UF&U*8cre$p"
